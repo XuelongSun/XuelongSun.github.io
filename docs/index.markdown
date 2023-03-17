@@ -14,7 +14,7 @@ _<font size=3>Computation Intelligence Lab, School of Computer Science, Universi
 _<font color="#267CB9" size=4>Seeking in the wilderness of human knowledge</font>_
 
 ## Insect Navigation
-### How tiny brain solve complex tasks.
+### How tiny brain solves complex tasks.
 ![insect navigation](assets/img/insect_navigation.png)
 
 ## Swarm Intelligence
@@ -31,7 +31,7 @@ _<font color="#267CB9" size=4>Seeking in the wilderness of human knowledge</font
 _<font color="#267CB9" size=4>Sharing ideas with the world</font>_
 
 |:--|--------------------:|
-|<img src="assets/img/paper_logo/elife.png" width="80px" style="vertical-align:middle"> | *__Xuelong Sun__, Shigang Yue and Michael Mangan, 2020_* |
+|<img src="assets/img/paper_logo/elife.png" width="80px" style="vertical-align:middle"> | *__Xuelong Sun__, Shigang Yue and Michael Mangan, 2020* |
 
 ### A decentralised neural model explaining optimal integration of navigational strategies in insects
 A bio-constrained computational model that a) applys frequency encoded image for insects visual navigation including visual homing and route following; b) uses ring attractor for optimal integration of navigational cues; c) argues the role played by the CX and MB in insect navigation.
@@ -56,7 +56,7 @@ We found that the classical ring-attractor network can do optimal integration of
 An optically emulated pheromone communication platform inspired by the multiple pheromone evidence found in ants. This platform could also localise the multiple robots based on vision.
 
 |:--|--------------------:|
-|<img src="assets/img/paper_logo/icra2021.png" width="80px" style="vertical-align:middle"> |*Tian Liu, __Xuelong Sun__, Cheng Hu, Qingbing Fu and Shigang Yue, 2021_* |
+|<img src="assets/img/paper_logo/icra2021.png" width="80px" style="vertical-align:middle"> |*Tian Liu, __Xuelong Sun__, Cheng Hu, Qingbing Fu and Shigang Yue, 2021* |
 
 ### A Versatile Vision-Pheromone-Communication Platform for Swarm Robotics
 Adding a dynamic changable wall to the arena is a very cool idea, and now we realised it! That's one cool thing that you can really feel in the journey of research!
@@ -68,7 +68,7 @@ Adding a dynamic changable wall to the arena is a very cool idea, and now we rea
 We extended our ICARM2019 paper by adding systematic analysis and invetigation of our platform and arrange the results into this journal paper.
 
 |:--|--------------------:|
-|<img src="assets/img/paper_logo/elife.png" width="80px" style="vertical-align:middle"> | *__Xuelong Sun__, Shigang Yue and Michael Mangan, 2021_* |
+|<img src="assets/img/paper_logo/elife.png" width="80px" style="vertical-align:middle"> | *__Xuelong Sun__, Shigang Yue and Michael Mangan, 2021* |
 
 ### How the insect central complex could coordinate multimodal navigation
 We found the model proposed in my first eLife paper could also be used for explaining olfactory navigation of insects, which again demonstrating the CX could be the navigation center of insects and there are general mechanisms conserved across sensory domains and even different insect species.
