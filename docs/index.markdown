@@ -24,7 +24,7 @@ _<font color="#267CB9" size=4>Seeking in the wilderness of human knowledge</font
 
 ## Bio-robotics
 ### From robots to biology and back.
-![biorotics](assets/img/navigation_demo.gif)
+![biorotics](assets/img/navigation_demo_biorobot.gif)
 
 * * *
 # Papers
