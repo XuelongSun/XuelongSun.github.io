@@ -39,32 +39,42 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %} -->
-        <h2> Blogs </h2>
+        <div style="overflow: hidden;">
+          <h2 style="float: left;"> Blogs </h2>
+          <a style="float: right;" href="/blog_list.html">>> More</a>
+        </div>
+
         <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts limit: 3%}
           <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
         {% endfor %}
         </ul>
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      
-      <footer>
-        <hr>
+        <hr />
+        <h2> Contact Me </h2>
         {% for c in site.contacts %}
         <div>
-          <img src="{{c.logo}}" width="10%" style="vertical-align:middle">
+          <img src="{{c.logo}}" width="8%" style="vertical-align:middle">
+          {% if c.name == 'Email' %}
+          <a href="mailto: {{c.url}}"><span style="color:{{c.color}}">{{c.name}}</span></a>
+          {% else %}
           <a href="{{c.url}}"><span style="color:{{c.color}}">{{c.name}}</span></a>
+          {% endif %}
         </div>
         <br>
         {%endfor%}
-        <hr>
+      </header>
+
+      <section>
+
+        {{ content }}
+
+      </section>
+      
+      
+      <footer>
+        <hr />
         <a href="https://info.flagcounter.com/Bb5X"><img src="https://s01.flagcounter.com/count2/Bb5X/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_visitors/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
         <div style="width:300px;margin:0 auto; padding:20px 0;">
           <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34040402000067" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
