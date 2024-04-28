@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Postdoc, 2021 - 2023
+## Associate Professor, 2024 - now
 _<font size=3>Machine Life and Intelligence research center, Guangzhou University, China</font>_
 
-## Honorary Research Fellow, 2023
+## Honorary Research Fellow, 2024 - now
 _<font size=3>School of Computing and Mathematical Sciences, University of Leicester, Leicester, United Kingdom</font>_
 
 * * *
@@ -57,6 +57,13 @@ We have developed a navigation model solely inspired by insects, enabling autono
 ### [A Versatile Vision-Pheromone-Communication Platform for Swarm Robotics](https://doi.org/10.1109/ICRA48506.2021.9561911)
 We are pleased to announce the successful implementation of a dynamic changeable wall in the arena, marking a significant advancement in our research. This addition introduces a dynamic element, enabling versatile and realistic experiments. The ability to modify the wall configuration opens new possibilities for studying diverse scenarios and investigating the impact of dynamic obstacles on behavior. This breakthrough underscores the dynamic nature of our research journey and our commitment to innovative ideas in our field.
 
+
+|:--|--------------------:|
+|[<img src="assets/img/paper_logo/biomimetics.png" width="80px" style="vertical-align:middle">](https://www.mdpi.com/journal/biomimetics) | *__Xuelong Sun__, Cheng Hu, Tian Liu, Shigang Yue, Jigen Peng and Qinbing Fu, 2023* |
+
+### [Translating Virtual Prey-Predator Interaction to Real-World Robotic Environments: Enabling Multimodal Sensing and Evolutionary Dynamics](https://doi.org/10.3390/biomimetics8080580)
+We have designed and implemented a prey-predator interaction scenario that incorporates visual and olfactory sensory cues not only in computer simulations but also in a real multi-robot system. Observed emergent spatial-temporal dynamics demonstrate successful transitioning of investigating prey-predator interactions from virtual simulations to the tangible world. It highlights the potential of multi-robotics approaches for studying prey-predator interactions and lays the groundwork for future investigations involving multi-modal sensory processing while considering real-world constraints.
+
 ## Others
 
 |:--|--------------------:|
@@ -83,12 +90,18 @@ we expand upon our previous work presented at ICARM2019 by conducting a thorough
 ### [Robustness of Bio-Inspired Visual Systems for Collision Prediction in Critical Robot Traffic](https://doi.org/10.3389/frobt.2021.529872)
 We employed the ColCOSP pheromone communication system to simulate city traffic, creating a unique and cost-effective robotic approach to evaluate online visual systems in dynamic scenes. This methodology enabled us to investigate the LGMD model in a novel and manageable manner.
 
+|:--|--------------------:|
+|[<img src="assets/img/paper_logo/biomimetics.png" width="80px" style="vertical-align:middle">](https://www.mdpi.com/journal/biomimetics) | *Jialang Hong, __Xuelong Sun__, Jigen Peng and Qinbing Fu, 2024* |
 
+### [A Bio-Inspired Probabilistic Neural Network Model for Noise-Resistant Collision Perception](https://doi.org/10.3390/biomimetics9030136)
+We embedded **Probabilistic Module** into LGMD models and found great performance. This study showcases a straightforward yet effective approach to enhance collision perception in noisy environments.
 
 * * *
 
 # Experiences
 _<font color="#267CB9" size=4>Chrishing every moment in my life</font>_
+### 2021 - 2024：Postdoc, Guangzhou University, China
+### 2023 - 2024：Honorary Research Fellow, University of Leicester, UK
 ### 2021 - 2023：Honorary Research Fellow, University of Lincoln, UK
 ### 2016 - 2021: PhD students, University of Lincoln, UK
 + 2017 - 2018: Visiting Scholar, Tsinghua University, China
