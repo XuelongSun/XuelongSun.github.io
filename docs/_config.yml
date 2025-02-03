@@ -29,10 +29,10 @@ github_username:  XuelongSun
 logo: /assets/img/XuelongSun.png
 favicon: /assets/img/favicon.png
 contacts:
-  - name: Email
-    url: xuelongsun@hotmail.com
-    logo: /assets/img/email.jpg
-    color: black
+  # - name: Email
+  #   url: xuelongsun@hotmail.com
+  #   logo: /assets/img/email.jpg
+  #   color: black
   - name: Google Scholar
     url: https://scholar.google.com/citations?user=Kn8Uir8AAAAJ
     logo: /assets/img/google_scholar.png

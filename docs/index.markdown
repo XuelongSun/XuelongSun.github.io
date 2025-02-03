@@ -64,6 +64,13 @@ We are pleased to announce the successful implementation of a dynamic changeable
 ### [Translating Virtual Prey-Predator Interaction to Real-World Robotic Environments: Enabling Multimodal Sensing and Evolutionary Dynamics](https://doi.org/10.3390/biomimetics8080580)
 We have designed and implemented a prey-predator interaction scenario that incorporates visual and olfactory sensory cues not only in computer simulations but also in a real multi-robot system. Observed emergent spatial-temporal dynamics demonstrate successful transitioning of investigating prey-predator interactions from virtual simulations to the tangible world. It highlights the potential of multi-robotics approaches for studying prey-predator interactions and lays the groundwork for future investigations involving multi-modal sensory processing while considering real-world constraints.
 
+|:--|--------------------:|
+|[<img src="assets/img/paper_logo/royal_society.png" width="80px" style="vertical-align:middle">](https://royalsocietypublishing.org/journal/rsif) | *__Xuelong Sun__, Michael Mangan, Jigen Peng and Shigang Yue, 2025* |
+
+### [I2Bot: an open-source tool for multimodal and embodied simulation of insect navigation](https://doi.org/10.1098/rsif.2024.0586)
+We have developed a open source platform for simulating embodied insect navigation behaviors based on ***Webots***. We hope this platform. By integrating gait controllers and computational models into I2Bot, we have implemented classical embodied navigation behaviours and revealed some fundamental navigation principles. By open-sourcing I2Bot, we aim to accelerate
+the understanding of insect intelligence and foster advances in the development of autonomous robotic systems.
+
 ## Others
 
 |:--|--------------------:|
@@ -96,6 +103,18 @@ We employed the ColCOSP pheromone communication system to simulate city traffic,
 ### [A Bio-Inspired Probabilistic Neural Network Model for Noise-Resistant Collision Perception](https://doi.org/10.3390/biomimetics9030136)
 We embedded **Probabilistic Module** into LGMD models and found great performance. This study showcases a straightforward yet effective approach to enhance collision perception in noisy environments.
 
+|:--|--------------------:|
+|[<img src="assets/img/paper_logo/applied_soft_computing.jpg" width="80px" style="vertical-align:middle">](https://www.sciencedirect.com/journal/applied-soft-computing) | *Hao Chen, __Xuelong Sun__, Cheng Hu, Hongxin Wang and Jigen Peng, 2024* |
+
+### [Unveiling the power of Haar frequency domain: Advancing small target motion detection in dim light](https://doi.org/10.1016/j.asoc.2024.112281)
+We integrated visual information in spatiotemporal windows regulated by frequency parameters of Haar wavelets and effectively
+discriminates the small target motion from the disturbance of random noise caused by dim light.
+
+|:--|--------------------:|
+|[<img src="assets/img/paper_logo/Heliyon.jpg" width="80px" style="vertical-align:middle">](https://www.sciencedirect.com/journal/heliyon) | *Yani Chen, Lin Zhang, Hao Chen, __Xuelong Sun__, Jigen Peng, 2024* |
+
+### [Synaptic ring attractor: A unified framework for attractor dynamics and multiple cues integration](https://doi.org/10.1016/j.heliyon.2024.e35458)
+We built a unified network based on ring attractor with simple synaptic computing that could account for many neural dynamics observed in animal brains especially that in insect heading direction system of cue integrating.
 * * *
 
 # Experiences

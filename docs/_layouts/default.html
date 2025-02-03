@@ -51,8 +51,17 @@
           </li>
         {% endfor %}
         </ul>
+        
         <hr />
-        <h2> Contact Me </h2>
+      </header>
+      
+      <section>
+
+        {{ content }}
+
+      </section>
+      
+      <footer>
         {% for c in site.contacts %}
         <div>
           <img src="{{c.logo}}" width="8%" style="vertical-align:middle">
@@ -64,18 +73,12 @@
         </div>
         <br>
         {%endfor%}
-      </header>
-
-      <section>
-
-        {{ content }}
-
-      </section>
-      
-      
-      <footer>
         <hr />
-        <a href="https://info.flagcounter.com/Bb5X"><img src="https://s01.flagcounter.com/count2/Bb5X/bg_FFFFFF/txt_000000/border_FFFFFF/columns_3/maxflags_12/viewers_visitors/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+        <div>
+          <a href="https://info.flagcounter.com/Bb5X"><img src="https://s01.flagcounter.com/count2/Bb5X/bg_FFFFFF/txt_000000/border_FFFFFF/columns_5/maxflags_10/viewers_3/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+          </a>
+          
+        </div>
         <div style="width:300px;margin:0 auto; padding:20px 0;">
           <a target="_blank" href="https://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
               <img src="/assets/img/record_logo.png" style="float:left;"/>
